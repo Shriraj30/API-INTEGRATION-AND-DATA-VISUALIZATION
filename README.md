@@ -48,14 +48,13 @@ To build an interactive weather dashboard demonstrating real-time API integratio
 - Enhance error handling for edge cases and API failures  
 - Integrate with other APIs for enriched weather datasets
 
-#OUTPUT
+## **OUTPUT**
 
 ![Image](https://github.com/user-attachments/assets/9c6c9387-0f7f-4968-b323-7b91b0be9c0e)
 
 ![Image](https://github.com/user-attachments/assets/e1490f7d-1677-4a5f-8374-4b2eb5368aad)
 
 ![Image](https://github.com/user-attachments/assets/cdf0f8bc-0d05-4321-8c25-cbbaffda767c)
-
 
 ## **Contact Information**  
 For queries or feedback, please reach out to:  
