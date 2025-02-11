@@ -11,7 +11,6 @@ API_URL = "https://api.openweathermap.org/data/2.5/forecast"
 st.title("Weather Dashboard")
 city_name = st.text_input("Enter City", "Nashik")
 
-# Fetch weather data on button click
 if st.button("Get Weather Data"):
     params = {
         "q": city_name,
